@@ -1,0 +1,8 @@
+Name:Yaseen Khaskheli
+Age:17
+Designation:Internee
+Salary:10000.0
+Name:Arif Ali SHah
+Age:51
+Designation:Software Engineer
+Salary:15000.0
